@@ -30,6 +30,9 @@ https://martareviglio.github.io/GIM/Esercizio_2/esercizio-2.html
 ### Esercizio_3A
 https://martareviglio.github.io/GIM/Esercizio_3A/orologio_digitale/index.html
 
+### Esercizio_3B
+https://martareviglio.github.io/GIM/Esercizio_3B/esempio_3/index.html
+
 
 
 

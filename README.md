@@ -14,7 +14,7 @@ https://martareviglio.github.io/GIM/esercizio_1a/rotazione_2.html
 
 https://martareviglio.github.io/GIM/esercizio_1a/rotazione_3.html
 
-https://martareviglio.github.io/GIM/Esercizio_1A/spostamento_2.html
+https://martareviglio.github.io/GIM/esercizio_1a/spostamento_2.html
 
 https://martareviglio.github.io/GIM/esercizio_1a/spostamento_3.html
 
